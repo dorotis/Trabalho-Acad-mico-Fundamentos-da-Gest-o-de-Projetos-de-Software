@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 1. Função da Pulseira Antiestática
+## ᶻ 𝗓 𐰁 .ᐟ 1. Função da Pulseira Antiestática ᶻ 𝗓 𐰁 .ᐟ
 **Pergunta:**  
 Qual é a principal função do uso da pulseira antiestática conectada a um ponto de aterramento durante a manutenção de componentes eletrônicos?
 
@@ -11,7 +11,7 @@ Evitar descargas eletrostáticas (ESD) que podem danificar componentes eletrôni
 
 ---
 
-## ⚡ 2. Norma NR-10
+##  ๋ ࣭ ⭑ 2. Norma NR-10 ๋ ࣭ ⭑
 **Pergunta:**  
 Segundo a norma NR-10, qual deve ser a prioridade técnica em um ambiente de trabalho com eletricidade?
 
@@ -20,7 +20,7 @@ Garantir a segurança dos trabalhadores, priorizando medidas de proteção colet
 
 ---
 
-## 🔌 3. Neutro vs Terra
+##๋ ࣭ ⭑ 3. Neutro vs Terra ๋ ࣭ ⭑
 **Pergunta:**  
 Qual a principal diferença entre o condutor neutro e o condutor terra em uma instalação elétrica de laboratório?
 
@@ -30,7 +30,7 @@ Qual a principal diferença entre o condutor neutro e o condutor terra em uma in
 
 ---
 
-## 🛠️ 4. Chave Torx x Philips
+##  ๋ ࣭ ⭑ 4. Chave Torx x Philips ๋ ࣭ ⭑
 **Pergunta:**  
 Sobre o manuseio de ferramentas de precisão, quando é indicado o uso de uma chave Torx em vez de uma chave Philips?
 
@@ -39,7 +39,7 @@ Quando o parafuso possui encaixe do tipo estrela (Torx), garantindo melhor ajust
 
 ---
 
-## 🔒 5. Ética Profissional
+##  ๋ ࣭ ⭑ 5. Ética Profissional ๋ ࣭ ⭑
 **Pergunta:**  
 Um técnico recebe um notebook de um cliente que contém fotos pessoais. De acordo com a ética profissional, como ele deve agir?
 
@@ -57,7 +57,7 @@ Equipamentos que protegem várias pessoas ao mesmo tempo, como extintores, sinal
 
 ---
 
-## ⚠️ 7. Aterramento Deficiente
+##  ๋ ࣭ ⭑ 7. Aterramento Deficiente ๋ ࣭ ⭑
 **Pergunta:**  
 Como um aterramento deficiente ou inexistente pode afetar o hardware de um servidor?
 
@@ -66,7 +66,7 @@ Pode causar danos por sobretensão, falhas no funcionamento e até queima de com
 
 ---
 
-## 🏭 8. Norma NR-12
+##  ๋ ࣭ ⭑ 8. Norma NR-12 ๋ ࣭ ⭑
 **Pergunta:**  
 Qual é a recomendação da norma NR-12 para a manutenção de máquinas e equipamentos?
 
@@ -75,7 +75,7 @@ Que sejam realizadas com segurança, com máquinas desligadas, bloqueadas e sina
 
 ---
 
-## 🧩 9. Manta Antiestática
+##  ๋ ࣭ ⭑ 9. Manta Antiestática ๋ ࣭ ⭑
 **Pergunta:**  
 Ao utilizar uma manta antiestática na bancada, onde ela deve estar conectada para ser eficaz?
 
@@ -84,7 +84,7 @@ Deve estar conectada a um ponto de aterramento.
 
 ---
 
-## 📦 10. Organização de Parafusos
+##  ๋ ࣭ ⭑ 10. Organização de Parafusos ๋ ࣭ ⭑
 **Pergunta:**  
 Por que é importante utilizar recipientes organizadores para parafusos durante a desmontagem?
 
@@ -93,7 +93,7 @@ Para evitar perda de peças, facilitar a organização e garantir a montagem cor
 
 ---
 
-## 🧼 11. Laboratório “Limpo”
+##  ๋ ࣭ ⭑ 11. Laboratório “Limpo” ๋ ࣭ ⭑
 **Pergunta:**  
 O que define um ambiente de laboratório “limpo” para manutenção de hardware?
 
