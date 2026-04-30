@@ -48,7 +48,7 @@ Deve respeitar a privacidade do cliente, não acessando arquivos pessoais sem au
 
 ---
 
-## 🦺 6. EPC
+##  ๋ ࣭ ⭑ 6. EPC ๋ ࣭ ⭑
 **Pergunta:**  
 Em um laboratório, o que caracteriza um equipamento de proteção coletiva (EPC)?
 
@@ -102,7 +102,7 @@ Ambiente sem poeira, organizado, com controle de eletricidade estática e boa il
 
 ---
 
-## 🔍 12. Uso do Multímetro
+##  ๋ ࣭ ⭑ 12. Uso do Multímetro ๋ ࣭ ⭑
 **Pergunta:**  
 Qual o procedimento correto para evitar curtos-circuitos ao realizar medições com multímetro em uma placa ligada?
 
