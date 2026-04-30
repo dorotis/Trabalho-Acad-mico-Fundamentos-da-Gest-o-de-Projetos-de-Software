@@ -1,123 +1,116 @@
 # ⚡📘 ATIVIDADES – 24/04 (L.H)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tema-Hardware%20%26%20Segurança-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nível-Técnico-informational?style=for-the-badge"/>
-</p> 
 ---
 
 ## 🧠 1. Função da Pulseira Antiestática
-**❓ Pergunta:**  
+**Pergunta:**  
 Qual é a principal função do uso da pulseira antiestática conectada a um ponto de aterramento durante a manutenção de componentes eletrônicos?
 
-**✅ Resposta:**  
+**Resposta:**  
 Evitar descargas eletrostáticas (ESD) que podem danificar componentes eletrônicos sensíveis.
 
 ---
 
 ## ⚡ 2. Norma NR-10
-**❓ Pergunta:**  
+**Pergunta:**  
 Segundo a norma NR-10, qual deve ser a prioridade técnica em um ambiente de trabalho com eletricidade?
 
-**✅ Resposta:**  
+**Resposta:**  
 Garantir a segurança dos trabalhadores, priorizando medidas de proteção coletiva e eliminação de riscos elétricos.
 
 ---
 
 ## 🔌 3. Neutro vs Terra
-**❓ Pergunta:**  
+**Pergunta:**  
 Qual a principal diferença entre o condutor neutro e o condutor terra em uma instalação elétrica de laboratório?
 
-**✅ Resposta:**  
-- 🔹 **Neutro:** conduz corrente elétrica no funcionamento do circuito  
-- 🟢 **Terra:** proteção contra choques (corrente de fuga)
+**Resposta:**  
+- **Neutro:** conduz corrente elétrica no funcionamento do circuito  
+- **Terra:** serve para proteção, conduzindo correntes de fuga para evitar choques  
 
 ---
 
 ## 🛠️ 4. Chave Torx x Philips
-**❓ Pergunta:**  
-Quando é indicado o uso de uma chave Torx em vez de uma chave Philips?
+**Pergunta:**  
+Sobre o manuseio de ferramentas de precisão, quando é indicado o uso de uma chave Torx em vez de uma chave Philips?
 
-**✅ Resposta:**  
-Quando o parafuso possui encaixe tipo estrela (Torx), garantindo melhor ajuste e evitando desgaste.
+**Resposta:**  
+Quando o parafuso possui encaixe do tipo estrela (Torx), garantindo melhor ajuste e evitando desgaste.
 
 ---
 
 ## 🔒 5. Ética Profissional
-**❓ Pergunta:**  
-Como um técnico deve agir ao receber um notebook com fotos pessoais?
+**Pergunta:**  
+Um técnico recebe um notebook de um cliente que contém fotos pessoais. De acordo com a ética profissional, como ele deve agir?
 
-**✅ Resposta:**  
-Respeitar a privacidade do cliente e não acessar arquivos sem autorização.
+**Resposta:**  
+Deve respeitar a privacidade do cliente, não acessando arquivos pessoais sem autorização.
 
 ---
 
-## 🦺 6. EPC (Equipamento de Proteção Coletiva)
-**❓ Pergunta:**  
-O que caracteriza um EPC?
+## 🦺 6. EPC
+**Pergunta:**  
+Em um laboratório, o que caracteriza um equipamento de proteção coletiva (EPC)?
 
-**✅ Resposta:**  
-Protege várias pessoas ao mesmo tempo (ex: extintores, sinalização, ventilação).
+**Resposta:**  
+Equipamentos que protegem várias pessoas ao mesmo tempo, como extintores, sinalizações e sistemas de ventilação.
 
 ---
 
 ## ⚠️ 7. Aterramento Deficiente
-**❓ Pergunta:**  
-Como afeta o hardware de um servidor?
+**Pergunta:**  
+Como um aterramento deficiente ou inexistente pode afetar o hardware de um servidor?
 
-**✅ Resposta:**  
-Pode causar danos por sobretensão, falhas e até queima de componentes.
+**Resposta:**  
+Pode causar danos por sobretensão, falhas no funcionamento e até queima de componentes.
 
 ---
 
 ## 🏭 8. Norma NR-12
-**❓ Pergunta:**  
-Qual a recomendação para manutenção de máquinas?
+**Pergunta:**  
+Qual é a recomendação da norma NR-12 para a manutenção de máquinas e equipamentos?
 
-**✅ Resposta:**  
-Máquinas devem estar desligadas, bloqueadas e sinalizadas.
+**Resposta:**  
+Que sejam realizadas com segurança, com máquinas desligadas, bloqueadas e sinalizadas para evitar acidentes.
 
 ---
 
 ## 🧩 9. Manta Antiestática
-**❓ Pergunta:**  
-Onde deve estar conectada?
+**Pergunta:**  
+Ao utilizar uma manta antiestática na bancada, onde ela deve estar conectada para ser eficaz?
 
-**✅ Resposta:**  
-Ao ponto de aterramento.
+**Resposta:**  
+Deve estar conectada a um ponto de aterramento.
 
 ---
 
 ## 📦 10. Organização de Parafusos
-**❓ Pergunta:**  
-Por que usar recipientes organizadores?
+**Pergunta:**  
+Por que é importante utilizar recipientes organizadores para parafusos durante a desmontagem?
 
-**✅ Resposta:**  
-Evita perda de peças e facilita a remontagem.
+**Resposta:**  
+Para evitar perda de peças, facilitar a organização e garantir a montagem correta depois.
 
 ---
 
 ## 🧼 11. Laboratório “Limpo”
-**❓ Pergunta:**  
-O que define esse ambiente?
+**Pergunta:**  
+O que define um ambiente de laboratório “limpo” para manutenção de hardware?
 
-**✅ Resposta:**  
-Sem poeira, organizado, bem iluminado e com controle de estática.
+**Resposta:**  
+Ambiente sem poeira, organizado, com controle de eletricidade estática e boa iluminação.
 
 ---
 
 ## 🔍 12. Uso do Multímetro
-**❓ Pergunta:**  
-Como evitar curto-circuitos?
+**Pergunta:**  
+Qual o procedimento correto para evitar curtos-circuitos ao realizar medições com multímetro em uma placa ligada?
 
-**✅ Resposta:**  
+**Resposta:**  
 - Usar corretamente as pontas de prova  
-- Evitar contato indevido entre pontos  
-- Ter atenção ao medir com a placa energizada  
+- Evitar encostar em dois pontos ao mesmo tempo indevidamente  
+- Ter cuidado para não fechar circuito  
 
 ---
 
-<p align="center">
-  ✨ Feito para estudos de Hardware e Segurança ✨  
-</p> 
+✨ Material organizado para estudo de Hardware e Segurança.
